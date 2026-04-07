@@ -11,10 +11,14 @@
     "setting": "中国·当代·都市地下赌场",
     "appearance": "east-asian"
   },
-  "status": "not_started",
+  "status": "step1b_done",
   "steps": {
     "step1b": {
-      "status": "not_started"
+      "status": "done",
+      "started_at": "2026-04-07T15:38:21.606717+00:00",
+      "completed_at": "2026-04-07T15:39:36.423159+00:00",
+      "output": "storyboard.md",
+      "segment_count": 13
     },
     "step3": {
       "status": "not_started"
